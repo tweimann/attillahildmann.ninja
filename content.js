@@ -1,7 +1,7 @@
 var selection = Math.floor(Math.random() * 4) + 1
 
 if (selection == 1) {
-    tag = '<video controls autoplay loop class="centered" title="quelle: https://www.reddit.com/r/600euro/comments/wvhjsu/was_attila_nicht_erw%C3%A4hnt_breuer_impft_pers%C3%B6nlich/" src="./src/1.mp4"></video>'
+    tag = '<video controls autoplay muted loop class="centered" title="quelle: https://www.reddit.com/r/600euro/comments/wvhjsu/was_attila_nicht_erw%C3%A4hnt_breuer_impft_pers%C3%B6nlich/" src="./src/1.mp4"></video>'
 }
 else if (selection == 2) {
     tag = '<video controls autoplay loop class="centered" title="quelle: https://www.youtube.com/watch?v=N4Qy8MqA4qw" src="./src/2.mp4"></video>'
